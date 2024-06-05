@@ -1,5 +1,3 @@
-Claro, aqui está o README em formato Markdown:
-
 # Sistema de Arrecadação Open Source
 
 [![Licença](https://img.shields.io/badge/Licença-MIT-blue.svg)](https://opensource.org/licenses/MIT)
